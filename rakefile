@@ -1,6 +1,6 @@
 #Rakefile for wurfl plugin for cfwheels
 require 'rake/clean'
-CLEAN.include('build')
+CLEAN.include('build','index.cfm')
 
 PLUGIN_VERSION = 0.1
 
