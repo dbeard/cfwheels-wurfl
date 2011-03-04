@@ -1,7 +1,7 @@
 <cfcomponent displayname="WURFL Helper" output="false">
 	
 	<cffunction name="init">
-        <cfset this.version = "1.1,1.1.1">
+        <cfset this.version = "1.1,1.1.1,1.1.2">
         <cfreturn this>
     </cffunction>
 	
