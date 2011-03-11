@@ -64,3 +64,5 @@ History
 Version 0.1 - Initial Release
 
 Version 0.2 - Added Ability to reload the index when the application is reloaded
+
+Version 0.2.1 - Uses cflock now to ensure no data corruption
